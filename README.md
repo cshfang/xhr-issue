@@ -41,7 +41,7 @@ $ npx create-expo-app xhr-latest
 $ yarn ios
 ```
 ### xhr-latest-built
-Expo Go SDK 50 (latest) app
+Expo Dev Build SDK 50 (latest) app
 Commands used to create and run app
 ```sh
 $ npx create-expo-app xhr-latest-built
